@@ -20,14 +20,13 @@ char *_strstr(char *haystack, char *needle)
 				break;
 			}
 		}
-	}
-	if (!*needle)
-	{
-		return (result);
-	}
+		if (!*needle)
+		{
+			return (result);
+		}
 	needle = fneedle;
 	result++;
 	haystack = result;
-}
-return (0);
+	}
+	return (0);
 }
