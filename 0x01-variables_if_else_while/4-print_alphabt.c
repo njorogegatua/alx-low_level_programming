@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main - returns alphabets both except e and q
+ * main - returns alphabet both except e and q
  *
  * Return: Always 0 (Success)
  */

@@ -2,9 +2,10 @@
 #include <stdlib.h>
 
 /**
- * main - returns alphabets
+ * main - returns alphabet
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	int ch = 'a';
